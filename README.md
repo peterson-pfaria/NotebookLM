@@ -1,10 +1,14 @@
 # NotebookLM
 
 Tema: Engenharia de IA
+
+
 Objetivo: Aprender e compreender conceitos de Engenharia de IA.
 
 Fontes:
 HUYEN, Chip. Engenharia de IA: construindo aplicações com modelos de fundação. O'Reilly Media, 2025.
+
+
 
 Pergutas e Respostas:
 
