@@ -1,14 +1,12 @@
 # NotebookLM
 
-Tema
-Engenharia de IA
-Objetivo
-Aprender e compreender conceitos de Engenharia de IA.
+Tema: Engenharia de IA
+Objetivo: Aprender e compreender conceitos de Engenharia de IA.
 
-Fontes
+Fontes:
 HUYEN, Chip. Engenharia de IA: construindo aplicações com modelos de fundação. O'Reilly Media, 2025.
 
-Pergutas e Respostas
+Pergutas e Respostas:
 
 Quais principais diferenças de LLM e SLM ?
 Embora o acrônimo SLM (Small Language Models) não seja mencionado diretamente nas fontes fornecidas — sendo esta uma informação externa que você pode querer verificar de forma independente —, os textos comparam extensivamente os grandes modelos de linguagem (LLMs) com modelos menores (que correspondem ao conceito de SLM). As principais diferenças entre eles baseiam-se em quatro eixos centrais:
