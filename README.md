@@ -13,6 +13,8 @@ HUYEN, Chip. Engenharia de IA: construindo aplicações com modelos de fundaçã
 Pergutas e Respostas:
 
 Quais principais diferenças de LLM e SLM ?
+
+
 Embora o acrônimo SLM (Small Language Models) não seja mencionado diretamente nas fontes fornecidas — sendo esta uma informação externa que você pode querer verificar de forma independente —, os textos comparam extensivamente os grandes modelos de linguagem (LLMs) com modelos menores (que correspondem ao conceito de SLM). As principais diferenças entre eles baseiam-se em quatro eixos centrais:
 1. Tamanho e Definição O tamanho de um modelo de linguagem é quantificado pelo seu número de parâmetros, que são as variáveis atualizadas durante o processo de treinamento
 . É importante notar que "LLM" não é um termo científico fixo: o que é considerado "grande" muda com a evolução da tecnologia
@@ -30,6 +32,8 @@ Modelos menores: Têm menor capacidade de conhecimento geral, mas compensam pela
 . Nessa técnica, os dados gerados por um LLM grande (o "professor") são usados para treinar um modelo pequeno (o "aluno"), fazendo com que o modelo menor aprenda a imitar os comportamentos e a performance do modelo maior, mas operando com uma fração do seu tamanho origina
 
 Qual principal foco do RAG ?
+
+
 O principal foco da técnica de RAG (Geração Aumentada por Recuperação) é construir um contexto específico e relevante para cada consulta feita a um modelo de inteligência artificial
 . Inicialmente, seu objetivo central surgiu como uma solução para superar as limitações de tamanho de contexto dos modelos básicos, já que não é viável inserir todo o conhecimento do mundo diretamente no prompt de uma só vez
 Na prática, o foco do RAG se concentra nos seguintes pilares:
